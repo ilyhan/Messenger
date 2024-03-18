@@ -28,7 +28,7 @@
    (Сервер должен быть запущен на порте 3001, а React проект на порте 3000)
 
 ### Работа мессенджера 
-    С работой месседжера можете ознакомиться в видео: https://drive.google.com/file/d/1aZf8L_V84ViMp3qYZINh4LH3Wp-WGkO9/view?usp=drive_link
+С работой месседжера можете ознакомиться в видео: https://drive.google.com/file/d/1aZf8L_V84ViMp3qYZINh4LH3Wp-WGkO9/view?usp=drive_link
 
 ### Если возникли вопросы можете написать:
     - телеграм @DJNest 
