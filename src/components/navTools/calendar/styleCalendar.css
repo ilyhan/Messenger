@@ -1,0 +1,24 @@
+.calendar{
+    display: none;
+    position: absolute;
+    background-color: var(--nav-color);
+    right:30px;
+    top: 65px;
+    z-index: 5;
+    padding-inline: 10px;
+    border-radius: 0px 0px 0px 10px;
+}
+
+.icon-calendar{
+    margin: 10px 0px 10px;
+    height: 20px;
+}
+
+.input-date{
+    margin: 10px 0px 10px;
+    height: 20px;
+}
+
+.label-calender{
+    color: var(--text-color);
+}

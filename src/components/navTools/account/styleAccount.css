@@ -1,0 +1,110 @@
+.account{
+    display: none;
+    position: absolute;
+    top: 65px;
+    left: 0px;
+    z-index: 6;
+    width: 200px;
+    text-align: center;
+    background-color: var(--nav-color);
+    color: var(--text-color);
+    border-radius: 0px 0px 10px 0px;
+}
+
+.option-title{
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
+.info-user{
+    text-align: left;
+    padding-inline: 10px;
+}
+
+.type-info{
+    display: inline-block;
+    font-size: 13px;
+    padding: 3px 0px 10px;
+    opacity: 0.5;
+}
+
+.switch{
+    display: flex;
+    height: 30px;
+    justify-content:space-between;
+    padding: 10px;
+}
+
+.switch-case {
+    align-self: center;
+    position: relative;
+    display: inline-block;
+    width: 40px;
+    height: 18px;
+  }
+  
+  .switch-case input {display:none;}
+  
+  .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  .slider:before {
+    position: absolute;
+    content: "";
+    height: 10px;
+    width: 10px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  input:checked + .slider {
+    background-color: rgb(33, 150, 243);
+  }
+  
+  input:focus + .slider {
+    box-shadow: 0 0 1px rgb(33, 150, 243);
+  }
+  
+  input:checked + .slider:before {
+    -webkit-transform: translateX(20px);
+    -ms-transform: translateX(20px);
+    transform: translateX(20px);
+  }
+  
+  /* Rounded sliders */
+  .slider.round {
+    border-radius: 34px;
+  }
+  
+  .slider.round:before {
+    border-radius: 50%;
+  }
+
+  .button__logout{
+    background-color: rgba(255, 255, 255, 0);
+    color: var(--text-color);
+    font-size: 14px;
+    height: 23px;
+    margin-bottom: 10px;
+    border: 1px solid var(--text-color);
+    border-radius: 5px;
+  }
+
+  .button__logout:hover{
+    background-color: rgb(192, 47, 47);
+    color: #fff;
+    border: 1px solid rgb(192, 47, 47);
+  }

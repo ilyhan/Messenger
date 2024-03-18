@@ -1,0 +1,25 @@
+.scrollButton{
+    display: none;
+    position: sticky;
+    left:540px;
+    bottom: 5px;
+    height: 40px;
+    width: 40px;
+    padding: 0px;
+    background: rgba(52, 52, 52, 0.724);
+    border-radius: 50px;
+    border: none;
+    z-index: 10;
+    transition: 0.3s;
+}
+
+.scrollButton:hover{
+    background: rgba(29, 29, 29, 0.724);
+    cursor: pointer;
+}
+
+.arrow{
+    margin-top: 5px;
+    height: 30px;
+    color: #fff;
+}

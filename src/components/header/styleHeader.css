@@ -1,0 +1,18 @@
+.nav{
+    display: grid;
+    grid-template-columns: 1fr 5fr 1fr;
+    padding: 20px;
+    background-color: var(--nav-color);
+    max-width: 600px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.nav__options{
+    display: flex;
+    justify-content: space-between;
+}
+
+.icon:hover{
+    cursor: pointer;
+}

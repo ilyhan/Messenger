@@ -1,0 +1,12 @@
+:root{
+    --theme-color: rgb(237,238,240);
+    --chat-color: rgb(255, 255, 255);
+    --nav-color: rgb(245, 246, 249);
+    --text-color: rgb(115, 115, 115);
+    --logo-color: rgb(0, 0, 0);
+}
+
+  @font-face {
+    font-family: 'Logo Font';
+    src: url('./fonts/Reaver-Italic.woff2') format('woff2');
+  }

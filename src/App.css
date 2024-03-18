@@ -1,0 +1,95 @@
+body{
+  background-color: var(--theme-color);
+}
+
+html{
+  height:100vh;
+}
+
+.logo {
+  font-family: 'Logo Font', sans-serif;
+  font-size: 55px;
+  color: var(--logo-color); /*rgb(0, 0, 0);*/ 
+}
+
+.wrapper{
+  margin: 20vh auto;
+  padding-inline: 25px;
+  display: grid;
+  gap: 20px;
+  max-width: 400px;
+}
+
+.input{
+  height: 40px;
+  border-radius: 10px;
+  font-size: 16px;
+  padding-inline: 15px;
+  border: 1.5px solid rgb(0, 0, 0);
+  transition: 0.2s;
+}
+
+.input:hover{
+  border-color: rgb(120, 28, 206);
+}
+
+.input::placeholder{
+  text-align: center;
+}
+
+h1, h2{
+  margin: 0;
+  text-align: center;
+  color: var(--text-color);
+}
+
+p{
+  margin: 0;
+}
+
+.button{
+  height: 45px;
+  font-size: 16px;
+  background-color: rgb(73, 73, 202);
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: .3s;
+}
+
+.button-sign-up{
+  /* color: var(--text-color); */
+  text-transform:capitalize;
+}
+
+.button:hover{
+  background-color: rgb(129, 103, 224);
+}
+
+.button_link{
+  color: var(--text-color);
+  background-color: inherit;
+}
+
+.button_link:hover{
+  color: rgb(255, 255, 255);
+  background-color: rgb(58, 46, 86);
+}
+
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #cccccc; 
+  border-radius: 5px; 
+}
+
+
+
+
+
+
+

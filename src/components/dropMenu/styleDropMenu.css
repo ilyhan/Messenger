@@ -1,0 +1,23 @@
+.drop-block{
+    display: none;
+    position: absolute;
+    top: 200px;
+}
+
+.drop-block__list{
+    background-color: var(--nav-color);
+    margin: 0;
+    padding: 0;
+}
+
+.drop-block__item{
+    color: var(--text-color);
+    padding: 5px 10px;
+    list-style-type: none;
+    transition: .2s;
+}
+
+.drop-block__item:hover{
+    background-color: var(--theme-color);
+    cursor: pointer;
+}

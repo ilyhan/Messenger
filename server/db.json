@@ -1,0 +1,298 @@
+{
+  "mwdia": [],
+  "messages": [
+    {
+      "id": "1a51a97f-edc6-4b75-8ac1-df7b8b539e27",
+      "author": "Ann",
+      "text": "Всем привет!",
+      "time": {
+        "hours": 17,
+        "minutes": 11
+      },
+      "date": {
+        "day": 21,
+        "month": 2,
+        "year": 2024
+      },
+      "status": ""
+    },
+    {
+      "id": "c6b96cbb-4802-4b63-880b-c791d5724432",
+      "author": "Ann",
+      "text": "Видели РЕЛЭКС объявили о весенней стажировке?",
+      "time": {
+        "hours": 17,
+        "minutes": 11
+      },
+      "date": {
+        "day": 21,
+        "month": 2,
+        "year": 2024
+      },
+      "status": "edited"
+    },
+    {
+      "id": "c0951ab5-d1a6-4927-838e-220f02adb243",
+      "author": "Ann",
+      "text": "Backend Frontend и QA",
+      "time": {
+        "hours": 17,
+        "minutes": 13
+      },
+      "date": {
+        "day": 21,
+        "month": 2,
+        "year": 2024
+      },
+      "status": ""
+    },
+    {
+      "id": "6c5ba22f-78e6-4dc9-9eee-a5e1ded4e573",
+      "author": "Ilia",
+      "text": "Здорово! Я на Frontend пойду ",
+      "time": {
+        "hours": 17,
+        "minutes": 14
+      },
+      "date": {
+        "day": 21,
+        "month": 2,
+        "year": 2024
+      },
+      "status": ""
+    },
+    {
+      "id": "a248ee17-dfec-43bd-b000-d4722ee134fd",
+      "author": "Danila",
+      "text": "А когда пришлют тестовое задание??",
+      "time": {
+        "hours": 17,
+        "minutes": 15
+      },
+      "date": {
+        "day": 21,
+        "month": 2,
+        "year": 2024
+      },
+      "status": ""
+    },
+    {
+      "id": "dc3ceb3b-6271-499d-8b27-b24ed63d2c42",
+      "author": "Ann",
+      "text": "4 марта",
+      "time": {
+        "hours": 17,
+        "minutes": 15
+      },
+      "date": {
+        "day": 21,
+        "month": 2,
+        "year": 2024
+      },
+      "status": ""
+    },
+    {
+      "id": "cfb44418-119f-49cb-a921-19b89e23d531",
+      "author": "Danila",
+      "text": "Буду готовиться и ждать!",
+      "time": {
+        "hours": 17,
+        "minutes": 15
+      },
+      "date": {
+        "day": 21,
+        "month": 2,
+        "year": 2024
+      },
+      "status": ""
+    },
+    {
+      "id": "4dc8ce31-8e44-4d0a-ac56-52d6da66ea04",
+      "author": "Danila",
+      "text": "Ребята, тестовые задания пришли!!",
+      "time": {
+        "hours": 17,
+        "minutes": 16
+      },
+      "date": {
+        "day": 4,
+        "month": 3,
+        "year": 2024
+      },
+      "status": ""
+    },
+    {
+      "id": "ddb45919-6677-4230-adf8-5a8d407cc4c1",
+      "author": "Danila",
+      "text": "Всем удачи!",
+      "time": {
+        "hours": 17,
+        "minutes": 16
+      },
+      "date": {
+        "day": 4,
+        "month": 3,
+        "year": 2024
+      },
+      "status": ""
+    },
+    {
+      "id": "0ee9a330-7746-44cb-a1c1-c36fdee4f0f6",
+      "author": "Ann",
+      "text": "Спасибо, и тебе удачи!",
+      "time": {
+        "hours": 17,
+        "minutes": 17
+      },
+      "date": {
+        "day": 4,
+        "month": 3,
+        "year": 2024
+      },
+      "status": ""
+    },
+    {
+      "id": "db062f61-4731-4565-a71b-e55d8ecf1d3a",
+      "author": "Ilia",
+      "text": "удачи!",
+      "time": {
+        "hours": 17,
+        "minutes": 17
+      },
+      "date": {
+        "day": 4,
+        "month": 3,
+        "year": 2024
+      },
+      "status": ""
+    },
+    {
+      "id": "bdb0e573-e056-405e-a35d-9b0fe7be8db8",
+      "author": "Ann",
+      "text": "Ребята, сбор тестовых продлили",
+      "time": {
+        "hours": 17,
+        "minutes": 18
+      },
+      "date": {
+        "day": 15,
+        "month": 3,
+        "year": 2024
+      },
+      "status": ""
+    },
+    {
+      "id": "1f484aa7-4055-4e72-85dc-735b7d074e8e",
+      "author": "Ilia",
+      "text": "Супер!!! Я как раз не успевал доделать!!!",
+      "time": {
+        "hours": 17,
+        "minutes": 19
+      },
+      "date": {
+        "day": 15,
+        "month": 3,
+        "year": 2024
+      },
+      "status": "edited"
+    },
+    {
+      "id": "cc8f844f-d8d8-4a4f-abaa-10c4431777bf",
+      "author": "Ilia1",
+      "text": "всем привет",
+      "time": {
+        "hours": 17,
+        "minutes": 40
+      },
+      "date": {
+        "day": 18,
+        "month": 3,
+        "year": 2024
+      },
+      "status": ""
+    },
+    {
+      "id": "fd60202d-b381-4bf7-8500-3e6ab80a6d9c",
+      "author": "Ilia17",
+      "text": "привет",
+      "time": {
+        "hours": 17,
+        "minutes": 52
+      },
+      "date": {
+        "day": 18,
+        "month": 3,
+        "year": 2024
+      },
+      "status": ""
+    },
+    {
+      "id": "594a8807-da42-44e6-a45b-4dac78563337",
+      "author": "Ilia17",
+      "text": "как успехи с мессенджером?",
+      "time": {
+        "hours": 17,
+        "minutes": 53
+      },
+      "date": {
+        "day": 18,
+        "month": 3,
+        "year": 2024
+      },
+      "status": "edited"
+    },
+    {
+      "id": "551101d1-2637-4577-a642-f8651c4518c8",
+      "author": "Ilia",
+      "text": "все ок",
+      "time": {
+        "hours": 17,
+        "minutes": 53
+      },
+      "date": {
+        "day": 18,
+        "month": 3,
+        "year": 2024
+      },
+      "status": ""
+    }
+  ],
+  "users": [
+    {
+      "id": "2ebcc483-0195-4928-9975-f0fd34620674",
+      "username": "Ilia",
+      "nickname": "Nest",
+      "password": "Qwerty"
+    },
+    {
+      "id": "0cbb95e7-7bb5-4cb7-85f6-8816b18041b3",
+      "username": "Ilia",
+      "nickname": "User1",
+      "password": "qwerty"
+    },
+    {
+      "id": "be200d29-6d46-46aa-b393-960fadc53bc3",
+      "username": "Anna",
+      "nickname": "Ann",
+      "password": "Qwerty"
+    },
+    {
+      "id": "ceb6c3dc-518b-4e56-b6f3-34762a56415d",
+      "username": "Ilia",
+      "nickname": "Ilia",
+      "password": "Qwerty"
+    },
+    {
+      "id": "2d322da1-cd77-4555-acc3-2b9a401e2ed4",
+      "username": "Danila",
+      "nickname": "Danila",
+      "password": "Qwerty"
+    },
+    {
+      "id": "f15e43d8-20f8-49b2-9a55-9d926ccf8c01",
+      "username": "Ilia",
+      "nickname": "Ilia17",
+      "password": "Qwerty"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+.search{
+    display: none;
+    position: absolute;
+    background-color: var(--nav-color);
+    right:30px;
+    top: 65px;
+    z-index: 5;
+    padding-inline: 10px;
+    border-radius: 0px 0px 0px 10px;
+}
+
+.input-search{
+    margin: 10px 0px 10px;
+    height: 20px;
+}
+
+.type-search{
+    color: var(--text-color);
+}
+
+.icon-search{
+    align-self: center;
+    justify-self: end;
+    margin-right: 20px;
+    position: relative;
+}
